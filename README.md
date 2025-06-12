@@ -8,8 +8,8 @@
 [![Build Status](https://github.com/kasimlyee/lyte/actions/workflows/ci.yml/badge.svg)](https://github.com/kasimlyee/lyte/actions)
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
 
-> **Lightweight, high-performance reactive framework** with fine-grained reactivity and JSX support  
-> Created by **[Kasim Lyee](https://github.com/yourusername)**
+Lyte is a fast, fine-grained reactive JavaScript framework with JSX support. It offers minimal runtime, batched updates, and high performance—ideal for modern web apps. Built in TypeScript with a modular design for both client and server rendering. 
+> Created by **[Kasim Lyee](https://github.com/kasimlyee)**
 
 ---
 
